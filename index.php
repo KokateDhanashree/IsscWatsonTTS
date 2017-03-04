@@ -12,7 +12,7 @@
 <body>
 	<table>
 		<tr>
-			<td style='width:30%; height:30%'>
+			<td style='width:40%; height:30%'>
 				
 				<img src='images/bg.jpg'>
 
