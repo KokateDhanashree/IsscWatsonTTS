@@ -14,7 +14,7 @@
 		<tr>
 			<td style='width: 30%;'>
 				
-				<img src='images/newapp-icon.png'>
+				<img src='images/t1.jpg'>
 				
 			</td>
 			
