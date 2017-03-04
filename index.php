@@ -12,7 +12,7 @@
 <body>
 	<table>
 		<tr>
-			<td style='width: 40%;'>
+			<td style='width: 60%;'>
 				
 				<img src='images/t1.jpg'>
 				
