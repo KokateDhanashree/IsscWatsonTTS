@@ -14,7 +14,7 @@
 		<tr>
 			<td style='width:100%; height:100%'>
 				
-				<img src='images/t1.jpg'>
+				<img src='images/bg.jpg'>
 				
 			</td>
 			
