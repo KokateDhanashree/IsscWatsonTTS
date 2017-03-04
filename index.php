@@ -19,7 +19,7 @@
 			</td>
 			
 			<td>
-				<h1 id = "message"><?php echo "Talk To Hand!"; ?></h1>
+				<h1 id = "message"><?php echo "Talk To Hand!"; ?> </h1>
 				
 				<p class='description'></p> WatsonTourGuide <span class="red">Let's Talk!!</span>.
 			</td>
