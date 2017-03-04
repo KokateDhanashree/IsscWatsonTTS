@@ -12,7 +12,7 @@
 <body>
 	<table>
 		<tr>
-			<td style='width:100%; height:100%'>
+			<td style='width:30%; height:30%'>
 				
 				<img src='images/bg.jpg'>
 				
@@ -22,7 +22,7 @@
 				<h1 id = "message"><?php echo "Talk To Hand!"; ?> </h1>
 				
 				<p class='description'></p>
-				<div style="margin-bottom: 800%;"> 
+				<div style="margin: 0 auto;"> 
 					WatsonTourGuide <span class="red">Let's Talk!!</span>
 				</div>
 			</td>
