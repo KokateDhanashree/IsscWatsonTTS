@@ -24,7 +24,7 @@
 				
 				<p class='description'></p>
 				<div style="margin: 0 auto;"> 
-						WatsonTourGuide <span class="red">Let's Talk!!</span>
+					<p class='title'>WatsonTourGuide <span class="red">Let's Talk!!</span></p>
 				</div>
 			</td>
 		</tr>
