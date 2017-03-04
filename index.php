@@ -21,7 +21,10 @@
 			<td>
 				<h1 id = "message"><?php echo "Talk To Hand!"; ?> </h1>
 				
-				<p class='description'></p> WatsonTourGuide <span class="red">Let's Talk!!</span>.
+				<p class='description'></p>
+				<div style="margin-bottom: 80%;"> 
+					WatsonTourGuide <span class="red">Let's Talk!!</span>
+				</div>
 			</td>
 		</tr>
 	</table>
