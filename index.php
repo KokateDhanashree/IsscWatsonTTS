@@ -15,6 +15,7 @@
 			<td style='width:30%; height:30%'>
 				
 				<img src='images/bg.jpg'>
+
 				
 			</td>
 			
@@ -23,7 +24,7 @@
 				
 				<p class='description'></p>
 				<div style="margin: 0 auto;"> 
-					WatsonTourGuide <span class="red">Let's Talk!!</span>
+						WatsonTourGuide <span class="red">Let's Talk!!</span>
 				</div>
 			</td>
 		</tr>
