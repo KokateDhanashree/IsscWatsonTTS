@@ -22,7 +22,7 @@
 				<h1 id = "message"><?php echo "Talk To Hand!"; ?> </h1>
 				
 				<p class='description'></p>
-				<div style="margin-bottom: 100%;"> 
+				<div style="margin-bottom: 800%;"> 
 					WatsonTourGuide <span class="red">Let's Talk!!</span>
 				</div>
 			</td>
