@@ -20,12 +20,12 @@
 			</td>
 			
 			<td>
-				<h1 id = "message"><?php echo "Talk To Hand!"; ?> </h1>
+				<h1 id = "message"><?php echo "Let's Have a Tour with Watson!"; ?> </h1>
 				
 				<p class='description'></p>
 				
 				<div style="margin: 0 auto;"> 
-					<p >WatsonTourGuide <span class="red">Let's Talk!!</span></p>
+					<p >Watson Tour Guide <span class="red">Let's Talk!!</span></p>
 				</div>
 			</td>
 		</tr>
